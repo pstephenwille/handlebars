@@ -1,0 +1,21 @@
+{
+  "name": "handlebars",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ryanmurakami/pluralsight-handlebars-starter-code",
+  "authors": [
+    "stephen.wille <stephen.wille@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3",
+    "handlebars": "v3.0.3",
+    "material-design-lite": "~1.1.3"
+  }
+}
