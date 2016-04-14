@@ -1,3 +1,0 @@
-woot = {
-    zzz:'woot'
-};
