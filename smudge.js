@@ -1,0 +1,3 @@
+woot = {
+    zzz:'woot'
+};
